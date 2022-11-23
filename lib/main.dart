@@ -7,7 +7,7 @@ import 'package:simple/tuesday.dart';
 import 'package:simple/wednesday.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Tuesday());
 }
 
 class MyApp extends StatelessWidget {
